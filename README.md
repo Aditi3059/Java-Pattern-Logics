@@ -1,7 +1,7 @@
-# Java-Pattern-Logic
+# Java-Patterns-Logic
 Pattern printing exercises in Java to strengthen control structures, loops, and logical thinking.
 
-This repository is a collection of *Java pattern logic* created as part of my Core Java learning journey.  
+This repository is a collection of *Java patterns logic* created as part of my Core Java learning journey.  
 These programs may look simple, but they played a key role in strengthening my *logic-building, loop mastery, and problem-solving skills*.  
 
 ## 📌 Patterns Implemented  
